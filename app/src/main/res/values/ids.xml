@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView" type="id">10</item>
+    <item name="fab" type="id">10</item>
+    <item name="description" type="id">10</item>
+    <item name="addNote" type="id">10</item>
+    <item name="searchOption" type="id">10</item>
+    <item name="updateNote" type="id">10</item>
+    <item name="noteLayout" type="id">10</item>
+    <item name="allDelete" type="id">10</item>
+</resources>
